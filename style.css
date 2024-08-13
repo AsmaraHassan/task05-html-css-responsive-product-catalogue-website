@@ -547,3 +547,21 @@ footer img{
       width: 170px;
       height: 25px;
     }
+
+    i{
+        background-color: transparent;
+       color: #000;
+      padding-top: 02px;
+        margin-left: -28px;
+      }
+      .cart{
+    
+        padding-right: 25px;
+        padding-left: 25px;
+        width:15px;
+        height:15px;
+      }
+      .cart img{
+        padding-left: 05px;
+      }
+    
